@@ -180,3 +180,5 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for development guidelines.
 - [LICENSE](LICENSE) — MIT license with third-party attribution
 - [docs/Security_Performance_Audit.md](docs/Security_Performance_Audit.md) — Security & performance audit (all 23 resolved)
 - [docs/WHQL_Certification_Guide.md](docs/WHQL_Certification_Guide.md) — Driver signing and HLK submission
+
+- a
